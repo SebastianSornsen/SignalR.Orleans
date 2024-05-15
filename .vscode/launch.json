@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Samples/Silo/bin/Debug/net7.0/Silo.dll",
+            "program": "${workspaceFolder}/Samples/Silo/bin/Debug/net8.0/Silo.dll",
             "cwd": "${workspaceFolder}/Samples/Silo",
             "stopAtEntry": false,
             "console": "integratedTerminal",
